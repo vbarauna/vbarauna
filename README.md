@@ -7,11 +7,11 @@
 
 - 👨‍💻 Todos meus projetos estão no [https://github.com/vbarauna](https://github.com/vbarauna)
 
-- 📫 Como me contatar **baraunasvinicius@gmail.com**
+- 📫 Como me contatar: **baraunasvinicius@gmail.com**
 
 <h3 align="left">Onde me achar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/vinicius-barauna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/vinicius-barauna/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinicius-barauna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/vinicius-barauna/" height="30" width="40" /></a>
 <a href="https://instagram.com/barauna.v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="barauna.v" height="30" width="40" /></a>
 </p>
 
