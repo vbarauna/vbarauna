@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo **JavaScript, React.Js e C#**
 
-- 👨‍💻 Todos meus projetos estão no [https://github.com/vbarauna](https://github.com/vbarauna)
+- 👨‍💻 Todos meus projetos estão aqui no GitHub!
 
 - 📫 Como me contatar: **baraunasvinicius@gmail.com**
 
